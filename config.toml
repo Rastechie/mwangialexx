@@ -1,6 +1,6 @@
 baseurl = "/"
 publishDir = "docs"
-title = "Hugo Tanka Theme"
+title = "ALways Ask Why ..."
 author = "Nan Xiao"
 canonifyurls = true
 languagecode = "en"
@@ -16,7 +16,7 @@ pygmentscodefences = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  sitename = "Hugo Tanka Theme"
+  sitename = "Alex Mwangi"
 
 [[menu.main]]
     name = "Home"
