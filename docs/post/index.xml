@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Tanka Theme</title>
+    <title>Posts on ALways Ask Why ...</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Hugo Tanka Theme</description>
+    <description>Recent content in Posts on ALways Ask Why ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 18 Mar 2018 12:27:25 +0300</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2018 03 18 Making a Personal Blog With Blogdown and Hugo</title>
+      <link>/post/2018-03-18-making-a-personal-blog-with-blogdown-and-hugo/</link>
+      <pubDate>Sun, 18 Mar 2018 12:27:25 +0300</pubDate>
+      
+      <guid>/post/2018-03-18-making-a-personal-blog-with-blogdown-and-hugo/</guid>
+      <description>Install Hugo using blogdown from Rstudio blogdown::install_hugo() Install Hugo using blogdown from a local directory blogdown:::install_hugo_bin(&amp;ldquo;path/to/hugo.exe&amp;rdquo;) Links https://alison.rbind.io/post/up-and-running-with-blogdown/ Create new site library(blogdown) new_site(theme = &amp;ldquo;road2stat/hugo-tanka&amp;rdquo;, theme_example = TRUE)</description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>
