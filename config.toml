@@ -1,13 +1,13 @@
 baseurl = "/"
 publishDir = "docs"
-title = "ALways Ask Why ..."
+title = "Alex Mwangi"
 author = "Nan Xiao"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
 
 googleAnalytics = ""
-disqusShortname = ""
+disqusShortname = "https-mwangialex-netlify-com"
 disable_mathjax = false
 
 pygmentsstyle      = "vs"
@@ -16,7 +16,7 @@ pygmentscodefences = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  sitename = "Alex Mwangi"
+  sitename = "A"
 
 [[menu.main]]
     name = "Home"
