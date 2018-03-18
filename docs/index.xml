@@ -12,41 +12,12 @@
     
     
     <item>
-      <title>Create a Personal blog Using Blogdown</title>
-      <link>/post/create-a-personal-blog-using-blogdown/</link>
+      <title>test post</title>
+      <link>/post/test-post/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/create-a-personal-blog-using-blogdown/</guid>
-      <description>Install Hugo using blogdown from Rstudio blogdown::install_hugo() Install Hugo using blogdown from a local directory blogdown:::install_hugo_bin(&amp;ldquo;path/to/hugo.exe&amp;rdquo;) Links https://alison.rbind.io/post/up-and-running-with-blogdown/ Create new site library(blogdown) new_site(theme = &amp;ldquo;road2stat/hugo-tanka&amp;rdquo;, theme_example = TRUE)</description>
-    </item>
-    
-    <item>
-      <title>testing fix</title>
-      <link>/post/testing-fix/</link>
-      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/testing-fix/</guid>
-      <description>blog should update on netlify</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/post/2018-03-18-testing-fix/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-03-18-testing-fix/</guid>
-      <description>testing fixcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+      <guid>/post/test-post/</guid>
+      <description>Testing posting integrity.</description>
     </item>
     
   </channel>
