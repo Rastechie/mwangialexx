@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/create-a-personal-blog-using-blogdown/</loc>
+    <lastmod>2018-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/testing-fix/</loc>
     <lastmod>2018-03-18T00:00:00+00:00</lastmod>
   </url>

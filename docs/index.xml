@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Create a Personal blog Using Blogdown</title>
+      <link>/post/create-a-personal-blog-using-blogdown/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/create-a-personal-blog-using-blogdown/</guid>
+      <description>Install Hugo using blogdown from Rstudio blogdown::install_hugo() Install Hugo using blogdown from a local directory blogdown:::install_hugo_bin(&amp;ldquo;path/to/hugo.exe&amp;rdquo;) Links https://alison.rbind.io/post/up-and-running-with-blogdown/ Create new site library(blogdown) new_site(theme = &amp;ldquo;road2stat/hugo-tanka&amp;rdquo;, theme_example = TRUE)</description>
+    </item>
+    
+    <item>
       <title>testing fix</title>
       <link>/post/testing-fix/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
