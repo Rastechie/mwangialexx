@@ -12,12 +12,15 @@
     
     
     <item>
-      <title>test post</title>
+      <title>Alex&#39;s Blog</title>
       <link>/post/test-post/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/test-post/</guid>
-      <description>Testing posting integrity.</description>
+      <description>Created in R studio using Hugo and the blogdown package by the phenomenal Yihui Xie. You can create your own blog by reading his immensely helpful blogdown book.
+The theme is the minimal hugo-tanka by Nan Xiao. You can download it here.
+Helpful Links:
+ [https://alison.rbind.io/post/up-and-running-with-blogdown/] [http://amber.rbind.io/blog/2016/12/19/creatingsite/]  </description>
     </item>
     
   </channel>
